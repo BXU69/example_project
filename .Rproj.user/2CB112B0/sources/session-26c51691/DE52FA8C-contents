@@ -78,13 +78,13 @@ covid_table %>%
 source(here("source", "04_data_visualization.R"))
 ```
 
+This boxplot compares the distribution of log(concentration) across counties, showing substantial between-county differences and highlighting counties with notably lower levels and potential outliers.
 
 ```{r, figure1}
 plot1
 ```
 
-
-
+These faceted time-series plots display concentration over time for each county (across WWTP sites), revealing strong temporal variability with intermittent spikes and differing baseline levels by county.
 
 ```{r, figure2, fig.height = 10}
 plot2

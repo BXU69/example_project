@@ -3,7 +3,7 @@
     "path": "~/Desktop/Emory/coursework/BIOS 731/example_project/analysis/final_report.Rmd",
     "project_path": "analysis/final_report.Rmd",
     "type": "r_markdown",
-    "hash": "3377504626",
+    "hash": "3932272827",
     "contents": "",
     "dirty": false,
     "created": 1768493497351.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "82,5",
-        "scrollLine": "75"
+        "cursorPosition": "84,3",
+        "scrollLine": "78"
     },
     "folds": "",
-    "lastKnownWriteTime": 1768493670,
+    "lastKnownWriteTime": 1768494750,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1768493670469,
+    "last_content_update": 1768494750981,
     "read_only": false,
     "read_only_alternatives": []
 }
